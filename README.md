@@ -1,5 +1,5 @@
 # hello-world
 
-Today is Nov 4, 2018. 
+Today is 11/28, 2018. 
 
 The weather in SF is absolutely amazing. 
